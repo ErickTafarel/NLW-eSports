@@ -29,7 +29,7 @@ Projeto construido no evento Next Level Week da Rocketseat.
 - animation-delay; ;
 - transform: scale( );
 - :nth-child( ){ }
-- @keyframes {}
+- @keyframes { }
 
 ## Tecnologias
 
